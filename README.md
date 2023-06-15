@@ -2,11 +2,11 @@
 
 #### Tensorflow:
 
-Comunidad: https://www.tensorflow.org/community
+Community: https://www.tensorflow.org/community
 
-Codigo Reutilizable: https://www.tensorflow.org/hub
+Reusable Code: https://www.tensorflow.org/hub
 
-Herramientas: https://www.tensorflow.org/resources/tools
+Tools: https://www.tensorflow.org/resources/tools
 
 Repo Git: https://github.com/tensorflow
 
@@ -20,23 +20,23 @@ https://colab.research.google.com/
 
 Google Collab: https://colab.research.google.com/?hl=es-419#scrollTo=64jWqxkhSMPq
 
-#### Aprendizaje para ML/AI:
+#### Learning fro ML/AI:
 
-Gratis: https://www.kaggle.com/learn/overview
+Free: https://www.kaggle.com/learn/overview
 
-Gratis: https://developers.google.com/machine-learning/crash-course
+Free: https://developers.google.com/machine-learning/crash-course
 
-Gratis:https://www.tensorflow.org/learn
+Free:https://www.tensorflow.org/learn
 
-Gratis: https://aihub.cloud.google.com/
+Free: https://aihub.cloud.google.com/
 
-Gratis: https://inthecloud.withgoogle.com/training-discount/register.html
+Free: https://inthecloud.withgoogle.com/training-discount/register.html
 
-Curso Machine Learning: https://developers.google.com/machine-learning/crash-course
+Course  Machine Learning: https://developers.google.com/machine-learning/crash-course
 
-Gratis: https://developers.google.com/machine-learning?hl=es-419
+Free: https://developers.google.com/machine-learning?hl=es-419
 
-Tool
+Quickdraw- Interactive  tool
 
 https://quickdraw.withgoogle.com/?locale=es
 
