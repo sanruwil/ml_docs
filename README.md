@@ -45,6 +45,7 @@ https://quickdraw.withgoogle.com/?locale=es
 [Introduction](./intro/intro.ipynb)
 
 ## Data Analysis
+[Data Analysis](./data-analysis/data-analysis.ipynb)
 
 ## Supeprvised Learning
 [ModelRegression](./examples/modelregression/ModelRegresion.ipynb)
