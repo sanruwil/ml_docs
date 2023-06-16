@@ -51,6 +51,7 @@ https://quickdraw.withgoogle.com/?locale=es
 [ModelRegression](./examples/modelregression/ModelRegresion.ipynb)
 
 ## Unsupeprvised Learning
+[Clustering](./examples/clustering/clustering.ipynb)
 
 ## Reinforcement Learning
 
