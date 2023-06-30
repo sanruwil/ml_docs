@@ -24,8 +24,6 @@ Google Collab: https://colab.research.google.com/?hl=es-419#scrollTo=64jWqxkhSMP
 
 Free: https://www.kaggle.com/learn/overview
 
-Free: https://developers.google.com/machine-learning/crash-course
-
 Free:https://www.tensorflow.org/learn
 
 Free: https://aihub.cloud.google.com/
