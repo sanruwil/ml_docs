@@ -48,7 +48,7 @@ https://quickdraw.withgoogle.com/?locale=es
 ## Supeprvised Learning
 [ModelRegression](./examples/modelregression/ModelRegresion.ipynb)
 
-[ModelClasification](./examples/clasification/ModelClasificationCancer.ipynb)
+[Binary classification model](./examples/clasification/ModelClasificationCancer.ipynb)
 
 ## Unsupeprvised Learning
 [Clustering](./examples/clustering/clustering.ipynb)
