@@ -54,6 +54,9 @@ https://quickdraw.withgoogle.com/?locale=es
 
 [Binary Classification Models](./examples/clasification/ModelClasificationCancer.ipynb)
 
+[Neural Network Binary Classification](./examples/clasification/NNBinary.ipynb)
+
+
 ## Unsupeprvised Learning
 [Clustering](./examples/clustering/clustering.ipynb)
 
