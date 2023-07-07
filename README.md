@@ -23,6 +23,7 @@ Google Collab: https://colab.research.google.com/?hl=es-419#scrollTo=64jWqxkhSMP
 #### Learning fro ML/AI:
 
 Free: https://www.kaggle.com/learn/overview
+Stochastic Gradient Descent: https://www.kaggle.com/code/ryanholbrook/stochastic-gradient-descent
 
 Free:https://www.tensorflow.org/learn
 
