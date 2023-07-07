@@ -48,11 +48,11 @@ https://quickdraw.withgoogle.com/?locale=es
 [Data Analysis](./data-analysis/data-analysis.ipynb)
 
 ## Supeprvised Learning
-[ModelRegression](./examples/modelregression/ModelRegresion.ipynb)
+[Regression Models](./examples/modelregression/ModelRegresion.ipynb)
 
-[ModelNNRegression](./examples/modelregression/ModelNN.ipynb)
+[Neural Network Regression](./examples/modelregression/ModelNN.ipynb)
 
-[Binary classification model](./examples/clasification/ModelClasificationCancer.ipynb)
+[Binary Classification Models](./examples/clasification/ModelClasificationCancer.ipynb)
 
 ## Unsupeprvised Learning
 [Clustering](./examples/clustering/clustering.ipynb)
