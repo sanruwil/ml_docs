@@ -1,0 +1,26 @@
+Pasos para exporat ambiente
+1. Activar el entorno: 
+conda activate mi_entorno
+
+2. Crea un archivo de especificaciones
+
+conda list -e > nombre_de_tu_entorno.txt
+
+3. Copia el archivo:
+
+Copia el archivo .txt generado a la nueva máquina.
+
+
+Pasos para restaurar ambiente en nueva maquina
+
+1. Crear un nuevo entorno con la misma versión de Python que el original:
+
+conda create -n mi_entorno_restaurado python=3.9
+
+(Reemplaza 3.9 con la versión de Python que tenías en el entorno original)
+
+2. Activar el nuevo entorno:
+conda activate mi_entorno_restaurado
+
+3. Instalar los paquetes:
+conda install --file mi_entorno.txt
